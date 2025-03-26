@@ -25,3 +25,4 @@ Count tracker for your OwO / UwU . Based on [OwO Bot](https://github.com/Christo
 ## Run your bot
 - `npm install` install all package required
 - `node .` start bot
+by ryzuss
